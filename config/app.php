@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Unifiedtransform'),
+    'name' => env('APP_NAME', 'New Bridge Port Academy'),
 
     /*
     |--------------------------------------------------------------------------
